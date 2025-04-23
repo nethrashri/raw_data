@@ -1,0 +1,22 @@
+{
+    "int_to_app": {
+      "0": "Emergency_Service",
+      "1": "File_Download",
+      "2": "IoT_Temperature",
+      "3": "Online_Gaming",
+      "4": "Streaming",
+      "5": "Video_Call",
+      "6": "VoIP_Call",
+      "7": "Web_Browsing"
+    },
+    "app_to_int": {
+      "Emergency_Service": 0,
+      "File_Download": 1,
+      "IoT_Temperature": 2,
+      "Online_Gaming": 3,
+      "Streaming": 4,
+      "Video_Call": 5,
+      "VoIP_Call": 6,
+      "Web_Browsing": 7
+    }
+  }
